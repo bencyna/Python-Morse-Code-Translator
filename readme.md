@@ -17,7 +17,7 @@ WIP
 - [Questions](#questions)
 
 ## Description:
-This project will begin my python literacy journey. This project will convert norml english letters into morse code using the console. Enjoy
+This project will begin my python literacy journey. This project will convert normal english letters into morse code using the console. Enjoy
 
 ## Installation:
 Using pandas to read the codes from the csv, dictionaries will be used to convert user input into morse code text
@@ -26,7 +26,9 @@ Using pandas to read the codes from the csv, dictionaries will be used to conver
 The purpose of this project is to develop my python skills, using morse code as a fun way to do it
 
 ***
-Images to come 
+![image of application running in console](./assets/screenshot1.png)  
+The image above shows the initial output to the console.
+
 ***
 
 
@@ -36,7 +38,7 @@ Images to come
 [Ben Cyna](https://github.com/bencyna/)
 
 ## Test:
-
+Install the repository and hit run. Oh and import the dependencies 
 
 
 
