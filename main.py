@@ -34,5 +34,6 @@ while go_on:
     except KeyError:
         print("There was a spacing or letter issue, try again :)")
 
-    cls = lambda: os.system('cls')
-    cls()
+
+    # Clear the screen
+    print( "\n" * 100)
